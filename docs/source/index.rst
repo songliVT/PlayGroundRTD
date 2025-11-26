@@ -19,6 +19,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   Introduction
    Databases
    Protocols
    Publications

@@ -17,9 +17,8 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   Introduction
+   :maxdepth: 1
+
    Databases
    Protocols
    Publications

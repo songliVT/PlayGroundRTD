@@ -1,4 +1,4 @@
-Visisualization
+Visualization
 =========
 
-Content about visisualization goes here.
+Content about visualization goes here.

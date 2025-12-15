@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PlantSCHub'
+copyright = '2025, Song Li Lab at Virginia Tech'
+author = 'Song Li'
 
 release = '0.1'
 version = '0.1.0'

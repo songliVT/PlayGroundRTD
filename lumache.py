@@ -1,5 +1,9 @@
 """
-Lumache - Python library for cooks and food lovers.
+PlantSCHub: A curated resource hub for plant single-cell genomics
+and spatial transcriptomics analysis.
+
+This module provides example utilities and serves as a scaffold
+for Sphinx autodoc documentation.
 """
 
 __version__ = "0.1.0"

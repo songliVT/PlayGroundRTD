@@ -1,0 +1,28 @@
+/* full browser width (minus sidebar) */
+.wy-nav-content {
+  max-width: none;
+}
+
+
+div.dataTables_wrapper::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+div.dataTables_wrapper table.dataTable {
+  clear: both !important;
+}
+
+
+.wy-table-responsive {
+  overflow: visible !important;
+}
+
+/* allow wrapping in the Title column */
+table.dataTable td:nth-child(1),
+table.dataTable th:nth-child(1) {
+  white-space: normal !important;
+  word-break: break-word;
+  min-width: 300px; 
+}

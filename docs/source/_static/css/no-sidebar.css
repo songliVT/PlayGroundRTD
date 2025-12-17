@@ -1,0 +1,5 @@
+/* Hide the left nav */
+.wy-nav-side { display: none; }
+
+/* Remove the left margin the content wrapper reserves for the sidebar */
+.wy-nav-content-wrap { margin-left: 0; }

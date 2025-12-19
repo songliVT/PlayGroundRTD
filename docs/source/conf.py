@@ -9,7 +9,7 @@ def setup(app):
 
 # -- Project information
 
-project = 'PlantscHub'
+project = 'PlantSCHub'
 copyright = '2025, SongLiLab'
 author = 'SongLiLab'
 

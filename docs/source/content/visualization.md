@@ -14,13 +14,13 @@ Added: January 16, 2026
 :::{grid-item-card} Seurat
 :link: https://satijalab.org/seurat/
 :shadow: md
-:img-top: ../_static/images/seurat.png
+:img-top: ../_static/images/Seurat.png
 :::
 
 :::{grid-item-card} Scanpy
 :link: https://scanpy.readthedocs.io/
 :shadow: md
-:img-top: ../_static/images/scanpy.svg
+:img-top: ../_static/images/Scanpy.svg
 :::
 
 ::::
